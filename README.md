@@ -35,9 +35,9 @@ Soy Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** especializado 
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://raw.githubusercontent.com/DanielGodoyDAW/github-readme-stats/master/generated/overview.svg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielGodoyDAW&theme=tokyonight)](https://github.com/DanielGodoyDAW)
 
-![Top Languages](https://raw.githubusercontent.com/DanielGodoyDAW/github-readme-stats/master/generated/languages.svg)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGodoyDAW&theme=tokyonight&layout=compact)](https://github.com/DanielGodoyDAW)
 
 ---
 
