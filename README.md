@@ -35,9 +35,12 @@ Soy Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** especializado 
 
 ## 📊 Estadísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielGodoyDAW&theme=tokyonight)](https://github.com/DanielGodoyDAW)
+- 📌 **Repositorios públicos**: [Ver en GitHub](https://github.com/DanielGodoyDAW?tab=repositories)
+- 💾 **Lenguajes principales**: PHP, JavaScript, Java, Python
+- 🔧 **Tech Stack**: Backend PHP, MySQL, Laravel, REST APIs
+- 📈 **Especialización**: Desarrollo Backend con PHP y MySQL
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGodoyDAW&theme=tokyonight&layout=compact)](https://github.com/DanielGodoyDAW)
+[Ver perfil completo en GitHub](https://github.com/DanielGodoyDAW)
 
 ---
 
