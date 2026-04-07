@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Godoy
 
-**Desarrollador Web Junior | Backend PHP | DAW**
+**Desarrollador Web Junior | Fullstack | DAW**
 
 Málaga, España | [Gmail](mailto:danielgodoymedina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-godoy-medina-b6891536a/) 
 
@@ -8,7 +8,13 @@ Málaga, España | [Gmail](mailto:danielgodoymedina@gmail.com) | [LinkedIn](http
 
 ## 💡 Sobre mí
 
-Soy Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** especializado en **backend PHP y MySQL**, con capacidad de **resolución de problemas** y **trabajo bajo presión**.
+Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** | **Fullstack Developer**
+
+Backend: PHP, MySQL, Java/Spring, Node.js, APIs REST
+Frontend: React, JavaScript, HTML5, CSS3
+
+Especializado en backend, abierto a proyectos fullstack.
+Resolución de problemas bajo presión.
 
 ---
 
