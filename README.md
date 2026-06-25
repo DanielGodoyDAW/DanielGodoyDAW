@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Godoy
 
-**Desarrollador Web Junior | Fullstack | DAW**
+**Desarrollador Full Stack | Cloud Enthusiast | DAW**
 
 Málaga, España | [Gmail](mailto:danielgodoymedina@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-godoy-medina-daw/) 
 
@@ -14,8 +14,7 @@ Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)** | **Full Stack Dev
 *   **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3.
 *   **Cloud & Infraestructura:** Microsoft Azure (Certificación oficial AZ-900), Docker.
 
-Especializado en la construcción de aplicaciones robustas combinando la potencia de Spring Boot y el dinamismo de React. 
-Aporto 13 años de experiencia previa en la Armada Española, traduciéndose en una alta madurez profesional, disciplina militar y excelente resolución de problemas bajo presión en entornos críticos.
+Especializado en la construcción de aplicaciones robustas combinando la potencia de Spring Boot y el dinamismo de React. Aporto 13 años de experiencia previa en la Armada Española, traduciéndose en una alta madurez profesional, disciplina militar y excelente resolución de problemas bajo presión en entornos críticos.
 
 ---
 
@@ -46,18 +45,32 @@ Aporto 13 años de experiencia previa en la Armada Española, traduciéndose en 
 
 ## 📜 Certificaciones Oficiales
 
-- 🛡️ **Microsoft Certified: Azure Fundamentals (AZ-900)** 
+- 🛡️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
 ---
 
-## 📊 Estadísticas
+## 🚀 Proyectos Destacados
 
-- 📌 **Repositorios públicos**: [Ver en GitHub](https://github.com/DanielGodoyDAW?tab=repositories)
-- 💾 **Lenguajes principales**: Java, PHP, JavaScript, TypeSrcipt, Python
-- 🔧 **Tech Stack**: Frontend con React & Tailwind, Backend con Spring Boot, Cloud en Azure
-- 📈 **Especialización**: Ingeniería de software Full Stack enfocado en rendimiento y arquitectura limpia
+### 🌿 Plataforma de Gamificación Sostenible & ODS (Proyecto de Bootcamp)
+Aplicación Full Stack orientada a incentivar hábitos sostenibles y el cumplimiento de las ODS mediante retos diarios y sistemas de recompensas, diseñada con arquitectura escalable tanto para usuarios individuales como para entornos corporativos/educativos.
+*   **Desarrollo en Equipo:** Co-desarrollado de forma colaborativa entre 4 profesionales utilizando **Git/GitHub** para el control de versiones y flujos de trabajo eficientes.
+*   **Backend & Datos:** Arquitectura sólida basada en **Java, Spring Boot y Maven**, conectada a una base de datos **MySQL** estructurada para gestionar usuarios, retos dinámicos y métricas de impacto ambiental.
+*   **Frontend & UI:** Interfaz de usuario dinámica, intuitiva y responsive construida con **React** y **Tailwind CSS**, optimizando la experiencia de usuario (UX) para facilitar el seguimiento de objetivos diarios.
 
-[Ver perfil completo en GitHub](https://github.com/DanielGodoyDAW)
+### 🏥 Gestión de Citas Clínicas (Proyecto Final DAW)
+Aplicación web completa para la automatización y gestión de clínicas médicas. 
+*   **Backend:** API REST robusta construida con **PHP y MySQL**, implementando consultas parametrizadas, paginación, hashing seguro de contraseñas y arquitectura limpia.
+*   **Integraciones:** Conexión real con la pasarela de pagos **Stripe** y sincronización bidireccional mediante la API de **Google Calendar**.
+*   **Despliegue & Automatización:** Desplegado en entorno de producción mediante scripts automatizados en Bash y tareas programadas (Cron Jobs) para alertas del sistema.
+
+---
+
+## 📊 Estadísticas y Foco Técnico
+
+- 📌 **Repositorios públicos**: [Explorar proyectos](https://github.com/DanielGodoyDAW?tab=repositories)
+- 💾 **Lenguajes principales**: Java, PHP, JavaScript, TypeScript.
+- 🔧 **Tech Stack principal**: Frontend con React & Tailwind CSS, Backend con Spring Boot, Cloud en Azure.
+- 📈 **Especialización**: Ingeniería de software Full Stack enfocado en rendimiento y arquitectura limpia.
 
 ---
 
