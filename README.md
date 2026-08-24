@@ -60,13 +60,14 @@ Aplicación Full Stack orientada a incentivar hábitos sostenibles y el cumplimi
 *   **Frontend & UI:** Interfaz de usuario dinámica, intuitiva y responsive construida con **React** y **Tailwind CSS**, optimizando la experiencia de usuario (UX) para facilitar el seguimiento de objetivos diarios.
 
 ### ⚡ PokéAPI App — Progresión Web (React & TypeScript)
-🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app) 
+
+🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app)
 
 Aplicación web interactiva que muestra la evolución progresiva en el frontend desde maquetación estática hasta arquitecturas modernas con tipado fuerte.
 
-• Evolución Técnica: Desarrollada pasando de HTML/CSS nativo a JavaScript Vanilla, refactorizada a TypeScript y empaquetada finalmente como SPA con React.
-• Frontend & UI: Consumo de la PokéAPI en tiempo real, filtrado dinámico en cliente y renderizado de componentes modulares con Vite.
-• Despliegue CI/CD: Desplegada e integrada en Vercel con automatización desde repositorio GitHub.
+* **Evolución Técnica:** Desarrollada pasando de HTML/CSS nativo a JavaScript Vanilla, refactorizada a TypeScript y empaquetada finalmente como SPA con React.
+* **Frontend & UI:** Consumo de la PokéAPI en tiempo real, filtrado dinámico en cliente y renderizado de componentes modulares con Vite.
+* **Despliegue CI/CD:** Desplegada e integrada en Vercel con automatización desde repositorio GitHub.
 
 ### 🏥 Gestión de Citas Clínicas (Proyecto Final DAW)
 
