@@ -57,8 +57,8 @@ Aplicación Full Stack orientada a incentivar hábitos sostenibles y el cumplimi
 *   **Backend & Datos:** Arquitectura sólida basada en **Java, Spring Boot y Maven**, conectada a una base de datos **MySQL** estructurada para gestionar usuarios, retos dinámicos y métricas de impacto ambiental.
 *   **Frontend & UI:** Interfaz de usuario dinámica, intuitiva y responsive construida con **React** y **Tailwind CSS**, optimizando la experiencia de usuario (UX) para facilitar el seguimiento de objetivos diarios.
 
-⚡ PokéAPI App — Progresión Web (React & TypeScript)
-🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app)
+### ⚡ PokéAPI App — Progresión Web (React & TypeScript)
+🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app) 
 Aplicación web interactiva que muestra la evolución progresiva en el frontend desde maquetación estática hasta arquitecturas modernas con tipado fuerte.
 • Evolución Técnica: Desarrollada pasando de HTML/CSS nativo a JavaScript Vanilla, refactorizada a TypeScript y empaquetada finalmente como SPA con React.
 • Frontend & UI: Consumo de la PokéAPI en tiempo real, filtrado dinámico en cliente y renderizado de componentes modulares con Vite.
