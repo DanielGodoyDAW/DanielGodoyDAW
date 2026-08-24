@@ -52,20 +52,26 @@ Especializado en la construcción de aplicaciones robustas combinando la potenci
 ## 🚀 Proyectos Destacados
 
 ### 🌿 Plataforma de Gamificación Sostenible & ODS (Proyecto de Bootcamp)
+
 Aplicación Full Stack orientada a incentivar hábitos sostenibles y el cumplimiento de las ODS mediante retos diarios y sistemas de recompensas, diseñada con arquitectura escalable tanto para usuarios individuales como para entornos corporativos/educativos.
+
 *   **Desarrollo en Equipo:** Co-desarrollado de forma colaborativa entre 4 profesionales utilizando **Git/GitHub** para el control de versiones y flujos de trabajo eficientes.
 *   **Backend & Datos:** Arquitectura sólida basada en **Java, Spring Boot y Maven**, conectada a una base de datos **MySQL** estructurada para gestionar usuarios, retos dinámicos y métricas de impacto ambiental.
 *   **Frontend & UI:** Interfaz de usuario dinámica, intuitiva y responsive construida con **React** y **Tailwind CSS**, optimizando la experiencia de usuario (UX) para facilitar el seguimiento de objetivos diarios.
 
 ### ⚡ PokéAPI App — Progresión Web (React & TypeScript)
 🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app) 
+
 Aplicación web interactiva que muestra la evolución progresiva en el frontend desde maquetación estática hasta arquitecturas modernas con tipado fuerte.
+
 • Evolución Técnica: Desarrollada pasando de HTML/CSS nativo a JavaScript Vanilla, refactorizada a TypeScript y empaquetada finalmente como SPA con React.
 • Frontend & UI: Consumo de la PokéAPI en tiempo real, filtrado dinámico en cliente y renderizado de componentes modulares con Vite.
 • Despliegue CI/CD: Desplegada e integrada en Vercel con automatización desde repositorio GitHub.
 
 ### 🏥 Gestión de Citas Clínicas (Proyecto Final DAW)
+
 Aplicación web completa para la automatización y gestión de clínicas médicas. 
+
 *   **Backend:** API REST robusta construida con **PHP y MySQL**, implementando consultas parametrizadas, paginación, hashing seguro de contraseñas y arquitectura limpia.
 *   **Integraciones:** Conexión real con la pasarela de pagos **Stripe** y sincronización bidireccional mediante la API de **Google Calendar**.
 *   **Despliegue & Automatización:** Desplegado en entorno de producción mediante scripts automatizados en Bash y tareas programadas (Cron Jobs) para alertas del sistema.
