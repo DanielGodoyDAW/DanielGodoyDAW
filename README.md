@@ -61,7 +61,7 @@ Aplicación Full Stack orientada a incentivar hábitos sostenibles y el cumplimi
 
 ### ⚡ PokéAPI App — Progresión Web (React & TypeScript)
 
-🌐 **Live Demo:** [Ver proyecto en vivo](https://pokedex-react-ts.vercel.app)
+🌐 **Live Demo:** [Ver proyecto en vivo](pokedex-react-ts-ten.vercel.app)
 
 Aplicación web interactiva que muestra la evolución progresiva en el frontend desde maquetación estática hasta arquitecturas modernas con tipado fuerte.
 
